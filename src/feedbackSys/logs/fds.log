@@ -1,0 +1,14 @@
+2019/07/09 17:22:18.478 [E]  init minio error Endpoint:  does not follow ip address or domain name standards.
+2019/07/09 17:23:54.305 [E]  init minio error Endpoint:  does not follow ip address or domain name standards.
+2019/07/09 17:28:43.019 [E]  make bucket error Access Denied.
+2019/07/09 17:31:11.618 [E]  make bucket error Access Denied.
+2019/07/09 17:31:33.843 [D]  Successfully uploaded touxiang.jpg of size 25683
+
+2019/07/09 17:33:06.890 [E]  make bucket error %!s(<nil>)
+2019/07/09 17:41:24.329 [E]  make bucket error Bucket name contains invalid characters
+2019/07/09 17:41:26.025 [E]  make bucket error Bucket name contains invalid characters
+2019/07/09 17:41:27.723 [E]  make bucket error Bucket name contains invalid characters
+2019/07/09 17:41:51.215 [D]  Successfully uploaded touxiang.jpg of size 25683
+
+2019/07/09 17:46:46.495 [D]  Successfully uploaded 1.jpeg of size 4823
+
